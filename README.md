@@ -1,2 +1,3 @@
 # Dispenser-Remedio
-Um código para montar um dispenser automático de remédio
+
+Código em C++ utilizado em um projeto arduino para configurar um dispenser de remédio automático. 
